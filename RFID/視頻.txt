@@ -1,0 +1,97 @@
+RFID
+第一章 微課
+http://cms.sciencepress.cn/2019800413/413303.jhtml
+RFID運行原理
+http://cms.sciencepress.cn/2019800413/413277.jhtml
+德國西門子物流解決方案
+https://cms.sciencepress.cn/2019800413/413297.jhtml
+美國英頻杰RFID零售業解決方案
+https://cms.sciencepress.cn/2019800413/413310.jhtml
+中國RFID技術政策白皮書
+https://cms.sciencepress.cn/2019800413/413322.jhtml
+第二章 微課
+https://cms.sciencepress.cn/2019800413/413304.jhtml
+RFID系統結構
+https://cms.sciencepress.cn/2019800413/413286.jhtml
+英頻杰RFID閱讀器系統
+https://cms.sciencepress.cn/2019800413/413323.jhtml
+RFID標籤
+https://cms.sciencepress.cn/2019800413/413284.jhtml
+英頻杰RFID系統軟件
+https://cms.sciencepress.cn/2019800413/413311.jhtml
+第三章 微課
+https://cms.sciencepress.cn/2019800413/413305.jhtml
+基於WiFi的反向散射
+https://cms.sciencepress.cn/2019800413/413289.jhtml
+線性極化 vs 圓極化
+https://cms.sciencepress.cn/2019800413/413309.jhtml
+多徑效應
+https://cms.sciencepress.cn/2019800413/413291.jhtml
+第四章 微課
+https://cms.sciencepress.cn/2019800413/413306.jhtml
+第五章 微課
+https://cms.sciencepress.cn/2019800413/413307.jhtml
+EPCglobal C1G2標準
+https://cms.sciencepress.cn/2019800413/413321.jhtml
+第六章 微課
+https://cms.sciencepress.cn/2019800413/413308.jhtml
+影響讀取範圍的因素
+https://cms.sciencepress.cn/2019800413/413296.jhtml
+標籤選擇案例分析
+https://cms.sciencepress.cn/2019800413/413301.jhtml
+智能書架案例展示-1
+https://cms.sciencepress.cn/2019800413/413298.jhtml
+智能書架案例展示-2
+https://cms.sciencepress.cn/2019800413/413299.jhtml
+第七章 微課X
+http://res.51hkyh.com:8080/f/4b02b622e9/
+標籤角度隊識別範圍的影響
+https://cms.sciencepress.cn/2019800413/413300.jhtml
+實驗網站
+https://cs.nju.edu.cn/lxie/rfid.html
+實驗1演示視頻
+https://cms.sciencepress.cn/2019800413/413292.jhtml
+實驗2演示視頻
+https://cms.sciencepress.cn/2019800413/413293.jhtml
+圖8.29
+https://cms.sciencepress.cn/2019800413/417102.jhtml
+實驗5演示視頻
+https://cms.sciencepress.cn/2019800413/413294.jhtml
+圖8.36
+https://cms.sciencepress.cn/2019800413/417103.jhtml
+英頻杰的室內定位解決方案-1
+https://cms.sciencepress.cn/2019800413/413324.jhtml
+英頻杰的室內定位解決方案-2
+https://cms.sciencepress.cn/2019800413/413325.jhtml
+基於增強差分全息圖的室內定位解決方案
+https://cms.sciencepress.cn/2019800413/413290.jhtml
+RF-Glove採訪視頻
+https://cms.sciencepress.cn/2019800413/413275.jhtml
+RF-Kinect演示視頻
+https://cms.sciencepress.cn/2019800413/413276.jhtml
+RF-ECG演示視頻
+https://cms.sciencepress.cn/2019800413/413274.jhtml
+RFID應用模式
+https://cms.sciencepress.cn/2019800413/413283.jhtml
+RFID在零售業的應用案例
+https://cms.sciencepress.cn/2019800413/413281.jhtml
+RFID在交通運輸的應用案例
+X
+物品信息管理應用安全
+https://cms.sciencepress.cn/2019800413/413302.jhtml
+RFID物品追蹤解決方案
+https://cms.sciencepress.cn/2019800413/413285.jhtml
+基於RFID的訪問控制案例
+https://cms.sciencepress.cn/2019800413/413288.jhtml
+英頻杰RFID系列解決方案
+https://cs.nju.edu.cn/lxie/ihome/index.html
+寵物食品管理應用案例
+https://cms.sciencepress.cn/2019800413/413295.jhtml
+RFID在體育比賽中的應用案例
+https://cms.sciencepress.cn/2019800413/413279.jhtml
+RFID在零售業中的應用案例
+https://cms.sciencepress.cn/2019800413/413280.jhtml
+RFID在餐飲業中的應用案例
+https://cms.sciencepress.cn/2019800413/413282.jhtml
+採訪視頻
+https://cms.sciencepress.cn/2019800413/413315.jhtml
