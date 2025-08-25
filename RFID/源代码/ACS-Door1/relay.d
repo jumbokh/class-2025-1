@@ -1,0 +1,11 @@
+relay.o: core\relay.c
+relay.o: .\include\LPC11xx.h
+relay.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+relay.o: C:\Keil\ARM\RV31\INC\stdint.h
+relay.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+relay.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+relay.o: .\include\system_LPC11xx.h
+relay.o: .\include\sysdefs.h
+relay.o: C:\Keil\ARM\RV31\INC\stdbool.h
+relay.o: .\include\gpio.h
+relay.o: .\include\config.h

@@ -1,0 +1,10 @@
+beep.o: core\beep.c
+beep.o: .\include\LPC11xx.h
+beep.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+beep.o: C:\Keil\ARM\RV31\INC\stdint.h
+beep.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+beep.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+beep.o: .\include\system_LPC11xx.h
+beep.o: .\include\sysdefs.h
+beep.o: C:\Keil\ARM\RV31\INC\stdbool.h
+beep.o: .\include\gpio.h

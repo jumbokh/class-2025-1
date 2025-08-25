@@ -1,0 +1,10 @@
+gpio.o: core\gpio.c
+gpio.o: .\include\LPC11xx.h
+gpio.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+gpio.o: C:\Keil\ARM\RV31\INC\stdint.h
+gpio.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+gpio.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+gpio.o: .\include\system_LPC11xx.h
+gpio.o: .\include\sysdefs.h
+gpio.o: C:\Keil\ARM\RV31\INC\stdbool.h
+gpio.o: .\include\gpio.h

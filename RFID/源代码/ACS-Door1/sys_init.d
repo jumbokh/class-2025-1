@@ -1,0 +1,11 @@
+sys_init.o: core\sys_init.c
+sys_init.o: .\include\LPC11xx.h
+sys_init.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+sys_init.o: C:\Keil\ARM\RV31\INC\stdint.h
+sys_init.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+sys_init.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+sys_init.o: .\include\system_LPC11xx.h
+sys_init.o: .\include\sysdefs.h
+sys_init.o: C:\Keil\ARM\RV31\INC\stdbool.h
+sys_init.o: .\include\gpio.h
+sys_init.o: .\include\config.h

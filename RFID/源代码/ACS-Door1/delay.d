@@ -1,0 +1,9 @@
+delay.o: core\delay.c
+delay.o: .\include\LPC11xx.h
+delay.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+delay.o: C:\Keil\ARM\RV31\INC\stdint.h
+delay.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+delay.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+delay.o: .\include\system_LPC11xx.h
+delay.o: .\include\sysdefs.h
+delay.o: C:\Keil\ARM\RV31\INC\stdbool.h

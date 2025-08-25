@@ -1,0 +1,11 @@
+rfid125k.o: core\rfid125K.c
+rfid125k.o: .\include\LPC11xx.h
+rfid125k.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+rfid125k.o: C:\Keil\ARM\RV31\INC\stdint.h
+rfid125k.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+rfid125k.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+rfid125k.o: .\include\system_LPC11xx.h
+rfid125k.o: .\include\sysdefs.h
+rfid125k.o: C:\Keil\ARM\RV31\INC\stdbool.h
+rfid125k.o: .\include\gpio.h
+rfid125k.o: .\include\lcd.h

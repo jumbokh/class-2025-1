@@ -1,0 +1,11 @@
+led.o: core\led.c
+led.o: .\include\LPC11xx.h
+led.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+led.o: C:\Keil\ARM\RV31\INC\stdint.h
+led.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+led.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+led.o: .\include\system_LPC11xx.h
+led.o: .\include\sysdefs.h
+led.o: C:\Keil\ARM\RV31\INC\stdbool.h
+led.o: .\include\gpio.h
+led.o: .\include\config.h
