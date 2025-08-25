@@ -1,0 +1,86 @@
+1. 什麼是大數據分析
+https://ewm.proedu.com.cn/previewIndex/1196713
+2. 大數據分析流程
+https://ewm.proedu.com.cn/previewIndex/1196711
+3. 大數據分析常用技術
+https://ewm.proedu.com.cn/previewIndex/1196712
+4. Pandas 如何處理大數據
+https://ewm.proedu.com.cn/previewIndex/1196715
+5. 創建數組
+https://ewm.proedu.com.cn/previewIndex/1196716
+6. ndarray 對象的數據類型
+https://ewm.proedu.com.cn/previewIndex/1196714
+7. 數組運算
+https://ewm.proedu.com.cn/previewIndex/1196719
+8. Numpy 通用函數
+https://ewm.proedu.com.cn/previewIndex/1196717
+9. 利用 NumPy 數據進行數據處理
+https://ewm.proedu.com.cn/previewIndex/1196720
+10. Numpy的線性代數模塊
+https://ewm.proedu.com.cn/previewIndex/1196718
+11. 數據類型和數據結構
+https://ewm.proedu.com.cn/previewIndex/1196723
+12. 創建 Series
+https://ewm.proedu.com.cn/previewIndex/1196722
+13. 創建 DataFrame
+https://ewm.proedu.com.cn/previewIndex/1196721
+14. DataFrame 索引與切片
+https://ewm.proedu.com.cn/previewIndex/1196726
+15. 數據排序方法
+https://ewm.proedu.com.cn/previewIndex/1196724
+16. 數據統計方法
+https://ewm.proedu.com.cn/previewIndex/1196725
+17. Pandas 文件讀取
+https://ewm.proedu.com.cn/previewIndex/1196728
+18. Pandas 文件寫入
+https://ewm.proedu.com.cn/previewIndex/1196727
+19. Pandas 數據庫操作
+https://ewm.proedu.com.cn/previewIndex/1196729
+20. 數據質量管理
+https://ewm.proedu.com.cn/previewIndex/1196732
+21. 缺失值處理
+https://ewm.proedu.com.cn/previewIndex/1196734
+22. 重複值處理
+https://ewm.proedu.com.cn/previewIndex/1196731
+23. 異常值處理
+https://ewm.proedu.com.cn/previewIndex/1196730
+24. Pandas 數據堆疊
+https://ewm.proedu.com.cn/previewIndex/1196733
+25. Pandas 數據連接
+https://ewm.proedu.com.cn/previewIndex/1196737
+26. 數據映射轉換
+https://ewm.proedu.com.cn/previewIndex/1196735
+27. 數據離散化
+https://ewm.proedu.com.cn/previewIndex/1196736
+28. 數據分組(上)
+https://ewm.proedu.com.cn/previewIndex/1196738
+29. 數據分組(下)
+https://ewm.proedu.com.cn/previewIndex/1196741
+30. agg聚合
+https://ewm.proedu.com.cn/previewIndex/1196739
+31. apply 聚合
+https://ewm.proedu.com.cn/previewIndex/1196744
+32. transform聚合
+https://ewm.proedu.com.cn/previewIndex/1196740
+33. 使用sklearn處理數據(上)
+https://ewm.proedu.com.cn/previewIndex/1196742
+34. 線性回歸預測
+https://ewm.proedu.com.cn/previewIndex/1196747
+35. 使用sklearn處理數據(下)
+https://ewm.proedu.com.cn/previewIndex/1196743
+36. 數據集預處理
+https://ewm.proedu.com.cn/previewIndex/1196746
+37. 數據可視化概述
+https://ewm.proedu.com.cn/previewIndex/1196745
+38. 基本圖表類型
+https://ewm.proedu.com.cn/previewIndex/1196750
+39. matplotlib 基礎語法
+https://ewm.proedu.com.cn/previewIndex/1196749
+40. 繪製常見圖表
+https://ewm.proedu.com.cn/previewIndex/1196748
+41. 創見子圖
+https://ewm.proedu.com.cn/previewIndex/1196751
+42. Seaborn可視化方法
+https://ewm.proedu.com.cn/previewIndex/1196752
+配套資源
+https://m.ryjiaoyu.com/book/details/46137
