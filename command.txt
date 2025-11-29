@@ -1,0 +1,10 @@
+conda update -n base -c defaults conda
+conda create -n ml-env python=3.10 scikit-learn numpy pandas rdkit -c conda-forge -y
+conda activate ml-env
+conda list
+conda install jupyter notebook
+conda install ipykernel
+python -m ipykernel install --user --name=ml-env --display-name "Python (ml-env)"
+pip install mysql-connector-python pandas matplotlib seaborn
+
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY '123456';
